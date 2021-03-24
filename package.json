@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@primer/octicons": "^12.1.0",
+    "bootstrap-icons": "^1.4.0"
+  }
+}
